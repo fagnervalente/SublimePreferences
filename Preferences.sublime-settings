@@ -1,0 +1,43 @@
+{
+	"auto_upgrade": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+	"fallback_encoding": "UTF-8",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage",
+		"SideBarEnhancements"
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"All Autocomplete",
+		"AutoFileName",
+		"CSS3",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Emmet",
+		"Grunt",
+		"ColorPicker",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-scss-lint",
+		"SublimeLinter-json",
+		"SublimeCodeIntel",
+		"Themr",
+		"Git",
+		"GitGutter",
+		"Sass",
+		"LESS",
+		"Seti_UI"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Seti.sublime-theme"
+}
