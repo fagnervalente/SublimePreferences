@@ -1,6 +1,6 @@
 # SublimePreferences
 
-Meu arquivo de configuração do Sublime Text 3
+Um compilado de configurações e plugins do Sublime Text 3 que uso em meu dia a dia e que ajudam bastante em meu workflow.
 
 ### Instalação
 
